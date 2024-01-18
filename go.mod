@@ -1,4 +1,4 @@
-module https: //github.com/g-utils/endless
+module github.com/JankinHou/endless
 
 go 1.20
 
